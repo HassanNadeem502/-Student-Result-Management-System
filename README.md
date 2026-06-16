@@ -40,3 +40,4 @@ This program allows users to: ✔ Enter student name and marks ✔ Calculate tot
 <!-- gitpulse:contribution index="37" timestamp="2026-06-16" -->
 <!-- gitpulse:contribution index="38" timestamp="2026-06-16" -->
 <!-- gitpulse:contribution index="39" timestamp="2026-06-16" -->
+<!-- gitpulse:contribution index="40" timestamp="2026-06-16" -->
